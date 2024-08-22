@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, this is NicktasticDEV, AKA, NicktasticToons!
+
+
+Hello, I do coding and stuff. I do not have much repositories to show off, I mostly use this for private projects.
 
 <!--
 **NicktasticDEV/NicktasticDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
